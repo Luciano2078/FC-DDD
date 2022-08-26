@@ -1,0 +1,26 @@
+{
+  "name": "fc-ddd",
+  "version": "1.0.0",
+  "description": "## Instalndo o Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luciano2078/FC-DDD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luciano2078/FC-DDD/issues"
+  },
+  "homepage": "https://github.com/Luciano2078/FC-DDD#readme",
+  "dependencies": {
+    "typescript": "^4.7.4"
+  },
+  "devDependencies": {
+    "tslint": "^6.1.3"
+  }
+}
