@@ -14,3 +14,17 @@
 
 ### npx tslint --init
 
+## Trabalhando com testes
+
+### npm i -D jest @types/jest ts-node --save-dev
+
+### npm i -D @swc/jest @swc/cli @swc/core
+
+
+## Inicializando o Jest
+
+### npx jest --init
+
+## Rodando o test
+
+### npm test
