@@ -14,7 +14,7 @@ describe("Customer unit tests", () => {
     // Test NAME
 
     it("should throw error when name is empty", () => {
-        expect(() => { 
+        expect(() => {
             const customer = new Customer("123", "");
         }).toThrowError("Name is required");
     });
@@ -35,7 +35,7 @@ describe("Customer unit tests", () => {
 
     // Test ADDRESS and ACTIVATE
 
-    it("should activate custumer", () => {
+    it("should activate customer", () => {
 
         const customer = new Customer("1", "Customer 1")
         const address = new Address("Rua 1", 123, "12345-000", "Duducity", "RS");
@@ -59,7 +59,7 @@ describe("Customer unit tests", () => {
 
     // Test DEACTIVATE
 
-    it("should deactivate custumer", () => {
+    it("should deactivate customer", () => {
 
         const customer = new Customer("1", "Customer 1")
 
