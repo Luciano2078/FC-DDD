@@ -19,7 +19,9 @@
   },
   "homepage": "https://github.com/Luciano2078/FC-DDD#readme",
   "dependencies": {
-    "typescript": "^4.7.4"
+    "@types/uuid": "^8.3.4",
+    "typescript": "^4.7.4",
+    "uuid": "^9.0.0"
   },
   "devDependencies": {
     "@swc/cli": "^0.1.57",

@@ -28,3 +28,7 @@
 ## Rodando o test
 
 ### npm test
+
+## Instalando o UUID
+
+### npm i uuid @types/uuid
